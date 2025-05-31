@@ -58,6 +58,5 @@ For Colab:
 - Mount Google Drive to access dataset files
 - Start training and monitoring
 
-## 📜 License
-
+##License
 MIT License © 2025
